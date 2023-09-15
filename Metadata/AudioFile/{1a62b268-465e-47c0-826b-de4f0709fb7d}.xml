@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1a62b268-465e-47c0-826b-de4f0709fb7d}">
+		<property name="assetPath">
+			<value>Ambience/greenfield-birds-suburban-sounds-in-the-background-16683.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>510.69600000000003</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{72873612-14b2-4a0e-a192-787f7a59f75b}</destination>
+		</relationship>
+	</object>
+</objects>
