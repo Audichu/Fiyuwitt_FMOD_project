@@ -156,5 +156,18 @@
 	<object class="MixerBusFader" id="{8c868432-9991-4ea4-952c-3d6555c70def}" />
 	<object class="SpatialiserEffect" id="{b07501b3-6922-42df-8f2c-130254e5ba65}" />
 	<object class="MixerBusFader" id="{2fbceee6-9ea1-4c5c-90ba-a233891e8901}" />
-	<object class="SpatialiserEffect" id="{ec467527-a650-4983-acdd-c5e1dcf6c96e}" />
+	<object class="SpatialiserEffect" id="{ec467527-a650-4983-acdd-c5e1dcf6c96e}">
+		<property name="distanceRolloffType">
+			<value>3</value>
+		</property>
+		<property name="minimumDistance">
+			<value>0</value>
+		</property>
+		<property name="maximumDistance">
+			<value>40</value>
+		</property>
+		<property name="userStereoSeparation">
+			<value>87.0624008</value>
+		</property>
+	</object>
 </objects>
